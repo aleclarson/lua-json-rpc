@@ -1,8 +1,0 @@
-{
-  "name": "lua-json-rpc",
-  "version": "0.0.1",
-  "files": [
-    "json-rpc.lua",
-    "*.rockspec"
-  ]
-}
